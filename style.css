@@ -1,0 +1,83 @@
+.back-top{
+    background-color: #009688;
+    height:15vh;
+}
+.back-main{
+    background-color: #d9dbd5;
+    height: 85vh;
+}
+.back-container{
+    position: relative;
+}
+.front-container{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+}
+.front-container1{
+    position:absolute;
+    top:20px;
+    left:0;
+    right:0;
+}
+.chat-top{
+    background-color: #EDEDED;
+    min-height: 38px;
+
+}
+.profile-image{
+    height: 33px;
+    width: 37px;
+    border-radius: 23rem;
+    padding: 0.3rem;
+}
+span.float-right{
+    float: right;
+}
+.contacts{
+    background-color: #fff;
+    min-height: 600px;
+    padding: 0%;
+
+}
+.contact-table-scroll{
+    overflow-y: scroll;
+    height: 600px;
+}
+.message-area{
+    background-color: #e4e1de;
+    min-height: 600px;
+
+}
+td.mithun{
+    background-color:blue;
+   
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+
+}
+.col-sm-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+    padding: 0%;
+}
+.message-box{
+    background-color: #fff;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
